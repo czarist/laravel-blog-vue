@@ -8,6 +8,9 @@
                     <h4>Teste conteudo</h4>
                     <div class="row">
                         <div class="col-md-4">
+                            <caixa></caixa>
+                        </div>
+                        <div class="col-md-4">
                             <painel titulo="Conteúdo 1" cor="blue">
                                 teste conteudo...
                             </painel>
